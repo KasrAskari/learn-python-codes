@@ -1,1 +1,1 @@
-Python Tutorial
+Python tutorial for Machine Learning prerequisite
