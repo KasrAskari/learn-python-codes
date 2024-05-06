@@ -1,1 +1,1 @@
-Python tutorial for "Machine Learning" prerequisite
+Essential python tutorials for Machine-Learning
